@@ -1,0 +1,7 @@
+repositories:
+
+  _externals/6_2_0_release:
+    type:             git
+    url:              https://github.com/andry81-3dparty/fmt
+    version:          6_2_0_release
+    fetch-to-branch:  6_2_0_release
